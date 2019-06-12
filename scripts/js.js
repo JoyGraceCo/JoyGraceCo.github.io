@@ -1,3 +1,4 @@
+window.location.replace("https://www.joygrace.shop");
 $(document).ready(function () {
     $('#lnkMain').click(function(){
         $('#shop').hide();
